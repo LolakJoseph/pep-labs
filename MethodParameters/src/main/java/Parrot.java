@@ -14,7 +14,7 @@ public class Parrot {
      * @return text.
      */
     public String copy(String text){
-        this.text = text;
-        return "hello";
+        return "polly"
+        ;
     }
 }
